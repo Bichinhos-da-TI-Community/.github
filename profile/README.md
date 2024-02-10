@@ -1,12 +1,14 @@
-## Hi there 👋
+## Bichinhos da TI 👋
 
-<!--
+Comunidade surgiu com intuito de dar visibilidade para o pessoal iniciante na área de tecnologia. Somos uma comunidade que produz projetos open source para que isso seja possível.
 
-**Here are some ideas to get you started:**
+Para saber mais sobre nossa comunidade e nossos projetos
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Encontre-nos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/bichinhos-da-ti/)
+
+
+
+ [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QCdwqaRj4j)
+
